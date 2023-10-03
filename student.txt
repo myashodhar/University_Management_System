@@ -1,0 +1,17 @@
+
+
+GOWSHIK	22	9360096876	gowshik511.123@gmail.com	svkstreet	neyveli	tn	india	607803
+
+19PT07	MSCTCS
+
+D-520	45000	15000	60000
+
+70000	1000	100	50	25	71175
+
+
+
+ML	18xt20	4
+
+1		1		9
+
+9
