@@ -3,12 +3,11 @@
 #include<iostream>
 #include<iomanip>
 #include<fstream>
-
-using namespace std;
+#include<string>
 
 class course
 {
-    char name[32],code[32];
+    string name, code;
     int credit;
 
     public:
