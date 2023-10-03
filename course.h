@@ -7,7 +7,8 @@
 
 class course
 {
-    string name, code;
+    string name;
+    string code;
     int credit;
 
     public:
